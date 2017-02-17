@@ -1,0 +1,27 @@
+{
+  "name": "Reeflight-pi",
+  "version": "0.0.1",
+  "description": "Aqua Controller",
+  "main": "blink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewVanardennen/Reeflight"
+  },
+  "keywords": [
+    "iot",
+    "Raspberry Pi",
+    "Aquarium"
+  ],
+  "dependencies": {
+    "wiring-pi": ">=2.1.1"
+  },
+  "author": "Andrew Vanardennen <Andrew.Vanardennen@gmail.com>",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/AndrewVanardennen/Reeflight/issues"
+  },
+  "preferGlobal": "true"
+}
